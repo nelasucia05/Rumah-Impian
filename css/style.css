@@ -337,6 +337,10 @@ h2 {
    color: #fff; 
 }
 
+#fitur {
+    margin-bottom: 158px;
+}
+
 #fitur h2 {
     font-size: 48px;
     font-weight: 500;
@@ -424,40 +428,8 @@ h2 {
 	font-size:18px;
 }
 
-#contct {
-    background-image: url(../Assets/img/bg\ contact.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-#contct .overlay {
-    background: rgba(0, 0, 0, 0.5);
-}
-
-#contct .container {
-    padding: 148px 0 148px 0;
-}
-
-#contct h3 {
-    color: #FFF;
-    font-size: 40px;
-    font-style: normal;
-    font-weight: 600;
-    line-height: 60px;
-    width: 441px;
-}
-
-#contct h6 {
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 27px;
-    color: #FFFFFF;
-    margin: 19px 0 14px 0;
-}
-
 #contact {
     background-image: url(../Assets/img/bg\ contact.png);
-    margin-top: 158px;
     background-size: cover;
     background-repeat: no-repeat;
 }

@@ -7,7 +7,12 @@
     .input-cari .button-primary {
         font-size: 24px;
     }
+
+    .swiper-slide {
+        width: 30%;
+    }
 }
+
 
 @media screen and (max-width : 576px){
     .hero-tagline h1 {
@@ -57,8 +62,52 @@
     .input-cari .form-control {
         height: 60px !important;
     }
+
+    #clients .col-md-4 {
+        margin-bottom: 20px;
+    }
+
+    #clients .swiper-slide img {
+        height: auto;
+        width: 100%;
+    }
 }
 
-@media screen and (max-width :350px){
-    
+@media screen and (max-width: 350px) {
+    .hero-tagline h1 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    h2 {
+        font-size: 28px;
+    }
+
+    .input-cari .button-secondary {
+        width: 100px;
+        font-size: 12px;
+    }
+
+    .input-cari .button-primary {
+        font-size: 18px;
+        width: 40%;
+    }
+
+    .card-layanan {
+        margin: 10px 0;
+    }
+
+    .sub-title {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .icon {
+        width: 24px;
+        height: 24px;
+    }
+
+    .navbar {
+        font-size: 12px;
+    }
 }
